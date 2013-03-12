@@ -1,0 +1,67 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="task"
+      id="documents-checklist">
+
+  <info>
+    <revision version="0.1" date="2013-03-12" status="draft"/>
+    <link type="guide" xref="index#documents"/>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>All documents you need to procur before submitting application.</desc>
+  </info>
+
+  <title>Documents checklist</title>
+
+  <p>You must be in pocession of the following documents in hard/printed copy at the time of submitting visa application:</p>
+
+  <list>
+    <item>
+      <p>Invitation letter from hosting organisation.</p>
+    </item>
+    <item>
+      <p>Letter from participant organisation. [example: GNOME Foundation].</p>
+    </item>
+    <item>
+      <p>Proof of accommodation in the foreign country.</p>
+    </item>
+    <item>
+      <p>Proof of identity (photocopy of the passport) of event's coordinator/contact person.</p>
+    </item>
+    <item>
+      <p>Letter of Formal Obligation from a Czech Resident towards the applicant.</p>
+    </item>
+    <item>
+      <p>Original Passport.</p>
+    </item>
+    <item>
+      <p>Duly filled Schengen visa application.</p>
+    </item>
+    <item>
+      <p>Photographs of applicant in the prescribed format.</p>
+    </item>
+    <item>
+      <p>Identity proofs (birth certificate, matriculation certificate, government issued ID.</p>
+    </item>
+    <item>
+      <p>Covering letter by the applicant.</p>
+    </item>
+    <item>
+      <p>A detailed timeline of travel itinerary covering arrival, stay, activities and departure dates and timings.</p>
+    </item>
+    <item>
+      <p>Bank statements for past 6 months of self or immediate family with enough funds i.e., 45EUROs per day x No. of days in the trip. If immediate family's bank statements are given, then a covering letter from family member.</p>
+    </item>
+    <item>
+      <p>Copy of flight tickets arranged (Blocked _not_ Booked).</p>
+    </item>
+    <item>
+      <p>Proof of employment OR Proof of pursuing academic course OR Proof of employment offer.</p>
+    </item>
+  </list>
+
+</page>

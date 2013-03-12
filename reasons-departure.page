@@ -1,0 +1,34 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="task"
+      id="docs-reasons-departure">
+
+  <info>
+    <revision version="0.1" date="2013-02-28" status="draft"/>
+    <link type="guide" xref="index#documents"/>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>Documents for visting a foreign country.</desc>
+  </info>
+
+  <title>Reasons for departure</title>
+
+  <p>To leave your origin country and vist another sovereign foreign country, one would need strong reasons and paperwork to prove it. The following documents are requisite and provided by GNOME upon request:</p>
+
+  <list>
+    <item>
+      <p>Invitation letter from hosting organization</p>
+    </item>
+    <item>
+      <p>Supporting letter from GNOME</p>
+    </item>
+    <item>
+      <p>[Optional] Foreign police invitation</p>
+    </item>
+  </list>
+
+</page>

@@ -1,0 +1,48 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="task"
+      id="visa-interview">
+
+  <info>
+    <revision version="0.1" date="2013-02-28" status="draft"/>
+    <link type="guide" xref="index#application"/>
+    <link type="seealso" xref="overview"/>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>How to answer a visa interview.</desc>
+  </info>
+
+  <title>Visa interview</title>
+
+  <p>If you are visiting a schengen country for the first time, you will be called for mandatory visa interview at the embassy. The interviewing officer will question you to corroborate your documents and to test your basic english speaking skills. The following questions are most likely:</p>
+
+  <list>
+    <item>
+      <p>Reasons for visiting the foreign country.</p>
+      <list>
+        <item>
+          <p>Explain about the event.</p>
+        </item>
+        <item>
+          <p>Explain relationship between the hosting and participating organisation.</p>
+        </item>
+        <item>
+          <p>Why is this a tourist event?</p>
+        </item>
+        <item>
+          <p>What is your role in the event?</p>
+        </item>
+      </list>
+    </item>
+    <item>
+      <p>Applicant's acquaintance "in person" with contacts listed in the visa application.</p>
+    </item>
+    <item>
+      <p>Verify your proof of financial backing for the trip to be undertaken.</p>
+    </item>
+  </list>
+</page>

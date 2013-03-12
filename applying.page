@@ -1,0 +1,34 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="task"
+      id="applying">
+
+  <info>
+    <revision version="0.1" date="2013-02-28" status="draft"/>
+    <link type="guide" xref="index#application"/>
+    <link type="seealso" xref="booking-cancellation"/>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>Submitting the application.</desc>
+  </info>
+
+  <title>Application at the Embassy/Consultate</title>
+
+  <p>You submit your visa application in the following ways:</p>
+  <list>
+    <item>
+      <p>Hire a visa agent by paying a separate agent fees. The visa agent will send your visa application through courier service on behalf of you.</p>
+    </item>
+    <item>
+      <p>Book an appointment with the embassy over telephone to submit application and make travel arrangements on own to do so.</p>
+    </item>
+  </list>
+
+  <note style="important">
+    <p>Third party visa agencies are not recommended as they are usually expensive and GNOME Travel committee does not reimburse this fees according to their <link href="https://live.gnome.org/Travel/#Travel.2BAC8-Policy.Travel_Policy">policy</link>. Traveling to the embassy despite the hassle of distance (if any) and an overnight stay to attend appointment is recommended as this minimizes the monetary loss in case of visa rejection.</p>
+  </note>
+</page>

@@ -1,0 +1,37 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="task"
+      id="introduction">
+
+  <info>
+    <revision version="0.1" date="2013-02-28" status="draft"/>
+    <link type="guide" xref="index#getting-started"/>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>What and Why?</desc>
+  </info>
+
+  <title>Introduction</title>
+
+  <p>The GNOME Foundation through it's GNOME Travel committee sponsors travel of GNOME contributors to events and conferences every year. You could be any of the following to receive this sponsorship:</p>
+
+  <list>
+    <item>
+      <p>GNOME Foundation member.</p>
+    </item>
+    <item>
+      <p>A well known GNOME contributor.</p>
+    </item>
+    <item>
+      <p>GNOME intern though Outreach Program for Women (OPW) or Google Summer of Code (GSOC).</p>
+    </item>
+  </list>
+
+  <p>To attend any such event or conference in a conuntry where you do not hold citizenship, you would require a travel document called <app>Passport</app>.</p>
+  
+  <p>A <app>passport</app> would have a stamp or seal of approval which you are to obtain prior to your journey to the foreign country from the embassy or consultate of the foreign country in your origin country, which is authorized to issue the same. This stamp is called <app>Visa</app>.</p>
+</page>

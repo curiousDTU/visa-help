@@ -1,0 +1,30 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="task"
+      id="apply-through-other-countries">
+
+  <info>
+    <revision version="0.1" date="2013-02-28" status="draft"/>
+    <link type="guide" xref="index#troubleshooting"/>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>Can I apply for visa through other countries?</desc>
+  </info>
+
+  <title>After visa denial</title>
+
+  <quote>
+    <cite><link href="http://indiancompass.com/2012/02/a-dummies-guide-to-schengen-visa/">An Indian’s guide to Schengen visa</link></cite>
+
+    <p>Even when it comes to applying for a Schengen visa, we would advice you to apply through the embassies of the bigger countries: namely, France, Switzerland or Germany. There processing time is less, they have embassies in most metropolitan cities, and they are generally more professional. Unfortunately, that will mean that at least one of these countries should be a part of your itinerary. Its a bitch, but then again, they are great countries with so much to offer. Each time to you visit them, you will find something new to discover!</p>
+  </quote>
+
+    <note style="warning">
+      <p>A large database called the <link href="http://en.wikipedia.org/wiki/Schengen_Information_System">Schengen Information System (SIS)</link> is shared between all Schengen countries for purpose of background checks of the visa applicants. If you re-apply for visa through another country within short duration of visa rejection, it can raise red flags against you!</p>
+    </note>
+
+</page>

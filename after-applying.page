@@ -1,0 +1,33 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="task"
+      id="after-applying">
+
+  <info>
+    <revision version="0.1" date="2013-02-28" status="draft"/>
+    <link type="guide" xref="index#application"/>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>The waiting period.</desc>
+  </info>
+
+  <title>After applying</title>
+
+  <p>Once you have submitted your application, the following take place:</p>
+
+  <list type="numbered">
+    <item>
+      <p>Embassy will telephone at your given contact number and ask you to confirm a interview date.</p>
+    </item>
+    <item>
+      <p><link xref="visa-interview">The visa interview.</link></p>
+    </item>
+    <item>
+      <p>The processing time by embassy will last anywhere between 2 - 10 days depending on the how often and the number of applications the embassy receives.</p>
+    </item>
+  </list>
+</page>

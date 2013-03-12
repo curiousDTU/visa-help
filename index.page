@@ -1,0 +1,41 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide" style="2column task"
+      id="index">
+
+  <info>
+    <revision version="0.1" date="2013-02-25" status="draft"/>
+    <title type="link">GNOME Visa</title>
+    <title type="text">GNOME Visa</title>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>Foolproof your application!</desc>
+  </info>
+
+  <title>
+    <media type="image" mime="image/png" src="figures/visa-icon.png">
+    </media>
+    Visa Help
+  </title>
+
+  <section id="getting-started" style="2column">
+    <title>Getting started</title>
+  </section>
+
+ <section id="documents" style="2column">
+    <title>Collating your paperwork</title>
+  </section>
+
+ <section id="application" style="2column">
+    <title>Application process</title>
+  </section>
+
+  <section id="troubleshooting" style="2column">
+    <title>What do I do now?</title>
+  </section>
+
+</page>

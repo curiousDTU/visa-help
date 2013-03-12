@@ -1,0 +1,51 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="task"
+      id="booking-cancellation">
+
+  <info>
+    <revision version="0.1" date="2013-02-28" status="draft"/>
+    <link type="guide" xref="index#troubleshooting"/>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>How much money will I lose?</desc>
+  </info>
+
+  <title>Booking and Cancellation fees</title>
+
+
+  <p>Keep yourself informed about booking and cancellation fees involved in accomodation and flight tickets. Always confirm with your hotel and airlines.</p>
+
+  <section id="cancellation-flight">
+    <title>Cancellation Fees for flight tickets</title>
+
+  <p>If you were unable to arrange "blocked" flight tickets or the embassy has made booked tickets mandatory for application, the following applies in case of cancellation:</p>
+
+  <list>
+    <item>
+      <p>Booked tickets but visa rejected: Lufthansa Airlines refunds full amount for flight tickets excluding health insurance purchased within 40 to 42 working days. However the agent you book it through must be pursuasive of the case and you will need to furnish original visa rejection lettter sent by the embassy to apply for a refund.</p>
+      <note style="tip">
+        <p><link href="www.cleartrip.com">Cleartrip.com</link> has offered the very good refund support in recent case of visa rejection for <link href="http://sindhus.bitbucket.org">Sindhu S</link>.</p>
+      </note>
+    </item>
+    <item>
+      <p>Booked tickets but cancelled due to personal/other reasons: Lufthansa Airlines charges a cancellation of fees of 120 Euros.</p>
+    </item>
+    <item>
+      <p>Booked tickets but passenger has expired before the date of travel: Airlines often refund full amount in such cases.</p>
+    </item>
+  </list>
+  </section>
+
+  <section id="booking-cancellation-accomodation">
+    <title>Booking fees for accomodation</title>
+
+    <p>Usually hotels don't charge for any room reservation. If you do not occupy the rooms on the booked date, the booking is deemed to have been cancelled automatically. Please verify with the hotel or place of accomodation before booking. </p>
+
+  </section>
+
+</page>

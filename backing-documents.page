@@ -1,0 +1,37 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="task"
+      id="backing-documents">
+
+  <info>
+    <revision version="0.1" date="2013-02-28" status="draft"/>
+    <link type="guide" xref="index#documents"/>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>Documents to prove you and your family's identity, nationality.</desc>
+  </info>
+
+  <title>Supporting documents.</title>
+
+  <p></p>
+
+  <list>
+    <item>
+      <p>Photocopies of your IDs</p>
+    </item>
+    <item>
+      <p>Photocopies of IDs who will be funding your trip.</p>
+    </item>
+    <item>
+      <p>Photocopies of passport / IDs of event co-ordinator (can be obtained on request)</p>
+    </item>
+  </list>
+
+  <note style="tip">
+    <p>Always have scanned copies of your IDs in a flash drive for instant access.</p>
+  </note> 
+</page>

@@ -1,0 +1,63 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="task"
+      id="overview">
+
+  <info>
+    <revision version="0.1" date="2013-02-28" status="draft"/>
+    <link type="guide" xref="index#getting-started"/>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>Visa related jargons and terminology.</desc>
+  </info>
+
+  <title>Overview</title>
+
+  <p>The following terms related to a visa application are described in the order of understanding required:</p>
+
+  <terms>
+    <item>
+      <title>Foreign country</title>
+      <p>Foreign country refers to the country where you do not hold citizenship.</p>
+    </item>
+    <item>
+      <title>Nationality</title>
+      <p>Nationality is the legal relationship between an individual human and a Nation state. Nationality normally confers some protection of the individual by the state, and some obligations on the individual towards the state. What these rights and duties are vary from country to country.It differs technically and legally from citizenship, although in most modern countries all nationals are citizens of the state and all citizens are nationals of the state. <link href="http://en.wikipedia.org/wiki/Nationality">Source</link>.</p>
+    </item>
+    <item>
+      <title>Citizenship</title>
+      <p>Citizenship denotes the link between a person and a state or an association of states. It is normally synonymous with the term nationality although the latter term may also refer to ethnic connotations. Possession of citizenship is normally associated with the right to work and live in a country and to participate in political life. A person who does not have citizenship in any state is said to be stateless. <link href="http://en.wikipedia.org/wiki/Citizenship">Source</link>.</p>
+    </item>
+    <item>
+      <title>Visa</title>
+      <p>A visa (from the Latin charta visa, lit. "paper that has been seen") is a document showing that a person is authorized to enter or leave the territory for which it was issued, subject to permission of an immigration official at the time of actual entry. The authorization may be a document, but more commonly it is a stamp endorsed in the applicant's passport (or passport-replacing document). Some countries do not require a visa in some situations, such as a result of reciprocal treaty arrangements. The country issuing the visa typically attaches various conditions of stay, such as the territory covered by the visa, dates of validity, period of stay, whether the visa is valid for more than one visit, etc. <link href="http://en.wikipedia.org/wiki/Visa_(document)">Source</link>.</p>
+    </item>
+    <item>
+      <title>Visa types</title>
+      <list>
+        <item>
+          <p>Tourist visa</p>
+        </item>
+        <item>
+          <p>Business visa</p>
+        </item>
+        <item>
+          <p>Work visa</p>
+        </item>
+      </list>
+    </item>
+    <item>
+      <title>Schengen countries and Visa</title>
+      <p>The Schengen Area is a group of 26 European countries which have abolished passport and immigration controls at their common borders. It functions as a single country for international travel purposes, with a common visa policy. The Area is named after the town of Schengen in Luxembourg where the Schengen Agreement, which led to the Area's creation, was signed. Joining Schengen entails eliminating internal border controls with the other Schengen members, while simultaneously strengthening external border controls with non-Schengen states. <link href="http://en.wikipedia.org/wiki/Schengen_Area">Source</link>.</p>
+    </item>
+  </terms>
+
+  <note style="tip">
+    <p>You can view the entire visa process documented in a single page <link href="https://docs.google.com/document/d/1zujRKRJSNWVi87ITKFYLww_X-xttNmOaSgwGt0ncBI0">here</link>. However, please read this website to understand the process thoroughly.</p>
+  </note>
+
+</page>

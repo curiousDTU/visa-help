@@ -1,0 +1,41 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="the-application">
+
+  <info>
+    <revision version="0.1" date="2013-02-28" status="draft"/>
+    <link type="guide" xref="index#application"/>
+
+    <credit type="author copyright">
+      <name>Sindhu S</name>
+      <email>sindhus@live.in</email>
+      <years>2013</years>
+    </credit>
+
+    <desc>Final review of the application.</desc>
+  </info>
+
+  <title>Before Applying</title>
+
+  <p>A guide to final review before you submit your visa application:</p>
+
+  <steps>
+    <item>
+      <p>Make sure you have all documents listed on <link xref="documents-checklist"/>.</p>
+    </item>
+    <item>
+      <p>Compare dates of travel with itinery timeline, accomodation reservation document and invitation letter dates. These dates should match without any room for doubt.</p>
+    </item>
+    <item>
+      <p>As far as possible attach color photocopies of documents where required. The better the legibility of documents, the faster the can move over to the next check in your visa application.</p>
+    </item>
+    <item>
+      <p>Confirm your interview dates with the embassy over phone, more than once.</p>
+    </item>
+  </steps>
+
+      <note style="tip">
+        <p>Do read <link xref="case-studies"/> for better understanding of the visa process.</p>
+      </note>
+
+</page>
