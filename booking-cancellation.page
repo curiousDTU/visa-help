@@ -18,7 +18,7 @@
   <title>Booking and Cancellation fees</title>
 
 
-  <p>Keep yourself informed about booking and cancellation fees involved in accomodation and flight tickets. Always confirm with your hotel and airlines.</p>
+  <p>Keep yourself informed about booking and cancellation fees involved in accommodation and flight tickets. Always confirm with your hotel and airlines.</p>
 
   <section id="cancellation-flight">
     <title>Cancellation Fees for flight tickets</title>
@@ -41,10 +41,10 @@
   </list>
   </section>
 
-  <section id="booking-cancellation-accomodation">
-    <title>Booking fees for accomodation</title>
+  <section id="booking-cancellation-accommodation">
+    <title>Booking fees for accommodation</title>
 
-    <p>Usually hotels don't charge for any room reservation. If you do not occupy the rooms on the booked date, the booking is deemed to have been cancelled automatically. Please verify with the hotel or place of accomodation before booking. </p>
+    <p>Usually hotels don't charge for any room reservation. If you do not occupy the rooms on the booked date, the booking is deemed to have been cancelled automatically. Please verify with the hotel or place of accommodation before booking. </p>
 
   </section>
 
